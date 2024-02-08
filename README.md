@@ -1,4 +1,4 @@
-# Green Character Platform Game
+# JavaSCript platformer
 
 Welcome to the Green Character Platform Game! This is a simple platformer game built with JavaScript, HTML, and CSS. In this game, you control a green character who must navigate through various levels by jumping from platform to platform while avoiding obstacles.
 
